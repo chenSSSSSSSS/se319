@@ -1,0 +1,30 @@
+{
+    "images": [
+        {
+            "imageId": "1234",
+            "decription":"Data Structure",
+            "image":"./images/dspic.png"
+            
+        },
+        {
+            "imageId": "A124",
+            "decription": "this is sorting algo",
+            "image": "./images/algorithms.png"
+        },
+        {
+            "imageId": "76788",
+            "decription":"This is a big O runtime analysis",
+            "image": "./images/oopfundamentals.png"
+        },
+        {
+          "imageId": "BB124",
+          "decription":"interview question",
+          "image": "./images/behavioral.png"
+        },
+        {
+            "imageId": "BB125",
+            "decription":"linked lists description",
+            "image": "./images/linkedlist.png"
+        }
+    ]
+  }
